@@ -1,4 +1,4 @@
-package example
+package com.company.analytics
 
 import org.scalatest._
 
